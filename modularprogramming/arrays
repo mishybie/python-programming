@@ -1,0 +1,34 @@
+# numbers=[2,3,4,5]
+
+# x=numbers[0]
+# print(x)
+
+# #assigning a different value to an index
+# numbers=[23,89,98,]
+# numbers[2]=9
+# print(numbers)
+
+# #append
+# cars=["BMW","porche""jeep"]
+# cars.append("TOYOTA")
+# print(cars)
+# cars.remove("BMW")
+# print(cars)
+
+#POP
+
+numbers=[3,5,7,8,9,89,78,86,56]
+# length=numbers.count(8)
+# print(length)
+
+# numbers.reverse()
+# print(numbers)
+
+# for i in numbers:
+#     print(i)
+
+#range function
+
+name=["bmw","toyota"]
+name.append("jeep")
+print(name)
